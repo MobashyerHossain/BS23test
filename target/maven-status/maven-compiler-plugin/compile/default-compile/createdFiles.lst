@@ -1,0 +1,13 @@
+com\testdocker\docker\entity\LogCrudEntity.class
+com\testdocker\docker\service\LogCrudService.class
+com\testdocker\docker\DockerApplication.class
+com\testdocker\docker\config\JpaConfig.class
+com\testdocker\docker\controller\UserController.class
+com\testdocker\docker\repository\LogCrudRepository.class
+com\testdocker\docker\controller\LogController.class
+com\testdocker\docker\config\KafkaTopicConfig.class
+com\testdocker\docker\service\kafka\KafkaJsonConsumerService.class
+com\testdocker\docker\service\UserService.class
+com\testdocker\docker\service\kafka\KafkaJsonProducerService.class
+com\testdocker\docker\entity\UserEntity.class
+com\testdocker\docker\repository\UserRepository.class
